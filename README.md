@@ -1,7 +1,7 @@
 # Ancestry-Specific and Multi-Ancestry Rare Variant Meta-Analysis Reveals Novel Genes for Alzheimer’s Disease  
 `CARD ❤️ Open Science 😍`
 
-[pending DOI]
+[![DOI](https://zenodo.org/badge/1184371261.svg)](https://doi.org/10.5281/zenodo.19072549)
 
 **Last Updated:** March 2026  
 
@@ -29,7 +29,7 @@ Analyses include ancestry-specific burden testing, trans-ancestry meta-analysis,
 If you use this repository or find it helpful for your research, please cite the corresponding manuscript:
 
 > Ancestry-Specific and Multi-Ancestry Rare Variant Meta-Analysis Reveals Novel Genes for Alzheimer’s Disease (Khani et al., 2026)  
->> GitHub DOI: xxx/zenodo.XXXXXXX  
+>> GitHub DOI: 10.5281/zenodo.19072549
 >> Manuscript DOI: xxx
 ---
 
