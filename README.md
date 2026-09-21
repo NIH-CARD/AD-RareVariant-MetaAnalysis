@@ -62,7 +62,7 @@ If you use this repository or find it helpful for your research, please cite the
 ---
 
 ## Analysis Overview
-* Languages: Python  
+* Language: Python  
 
 **File** | **Description**
 --------------|---------------------------------------------------------------------------------------------------------
